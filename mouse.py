@@ -15,6 +15,9 @@ config.read('mousetrap.cfg')
 trap_pin = config.getint('sensors', 'trap_pin')
 pir_pin = config.getint('sensors', 'pir_pin')
 
+print "Adafruit MouseLogger v0.1.0"
+print "<:3)~~~"
+
 sqlite_log = False
 if os.path.isfile('mice.db'):
     print "Logging to mice.db"
