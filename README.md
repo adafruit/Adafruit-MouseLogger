@@ -7,4 +7,4 @@ Check out the full documentation: [A Sillier Mousetrap: Logging Mouse Data to Ad
 
     <:3)~~~
 
-[guide]: (https://learn.adafruit.com/a-sillier-mousetrap-logging-mouse-data-to-adafruit-io-with-the-raspberry-pi)
+[guide]: https://learn.adafruit.com/a-sillier-mousetrap-logging-mouse-data-to-adafruit-io-with-the-raspberry-pi
